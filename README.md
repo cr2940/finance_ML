@@ -6,4 +6,4 @@ Then you can run `python pred_stock.py`.
 
 Enjoy!
 
-![Example](https://imgur.com/a/4BjZqmY)
+[Example](https://imgur.com/a/4BjZqmY)
