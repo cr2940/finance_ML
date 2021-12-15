@@ -5,3 +5,5 @@ To run this on your computer, git clone the repository, go to the data URL, down
 Then you can run `python pred_stock.py`. 
 
 Enjoy!
+
+![Example](https://imgur.com/a/4BjZqmY)
